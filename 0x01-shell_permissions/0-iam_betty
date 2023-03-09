@@ -1,5 +1,2 @@
-
 #!/bin/bash
 su bettiy
-#!/bin/bash
-id -un
